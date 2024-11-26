@@ -26,3 +26,9 @@ Writing clean and readable React code.
 Implementing clear logic for winner and tie detection.
 
 Creating a modular and maintainable structure for scalability.
+
+---
+
+**Screenshots**
+
+![image](https://github.com/user-attachments/assets/bc3ed72b-fafb-46bd-8e9f-4c1627dea41c)
